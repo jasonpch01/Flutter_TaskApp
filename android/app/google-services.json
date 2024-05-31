@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "968606669521",
+    "project_id": "app-sgp-tech",
+    "storage_bucket": "app-sgp-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968606669521:android:5fd1b5c982c5a9b7d0c3f0",
+        "android_client_info": {
+          "package_name": "com.sgp_tech.app_sgp_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPI3puVz3q4P0BlIGKqgb99ZVOMQwNY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968606669521:android:ecaa60ca36b62f47d0c3f0",
+        "android_client_info": {
+          "package_name": "com.sgp_tech.flutter_apptask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPI3puVz3q4P0BlIGKqgb99ZVOMQwNY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
